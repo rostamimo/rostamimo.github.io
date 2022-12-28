@@ -1,0 +1,41 @@
+body{
+    background-image:url("../ba2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+}
+ol{
+	display: inline;
+}
+a.b{
+	font-size:30px;
+	color:red;
+	text-decoration: none;
+}
+p.q{
+	font-size:50px;
+	color:;
+}
+marquee.z{
+	font-family:tahoma;
+	width: 70%;
+	font-size:25px;
+	color:#b80606f1;
+	padding:10px;
+	border:groove;
+	border-width: 10px;
+}
+div.a{
+	font-size:25px;
+	color:;
+}
+p.e{
+	font-family:;
+	font-size:30px;
+	color:;
+}
+p.t{
+	font-family:;
+	font-size:30px;
+	color:;
+}
