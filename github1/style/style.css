@@ -1,0 +1,32 @@
+body{
+    background-image:url('../عکس س.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+    }
+
+a.b{
+	font-size:45px;
+	color:#b80606f1;
+	text-decoration: none;
+
+}
+p{
+	font-size:35px;
+	font-family:Comic sans MS;
+	color:#5f0318;
+	border:double;
+}
+div.a{
+	background-color:#f5f5f5;
+}
+ol{
+	display:inline;
+}
+div.name{
+	font-size: 40px;
+	background-color: aliceblue;
+	color: #5f0318;
+	padding: 40px ;
+}
+
