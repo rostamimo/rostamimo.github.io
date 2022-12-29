@@ -99,7 +99,7 @@ div.active{
 div.Inactive{
     font-size:40px;
    padding:20px 0px 0px;
-   color: #555;
+   color: #888;
    font-family:
 }
 
@@ -109,4 +109,31 @@ a.view{
    text-decoration: none;
 }
 
+footer{
+        background: #999;
+        padding: 30px;
+        color: white !important;
+
+}
+
+div.footer1{
+    float: left;
+    padding:30px 20px 40px 100px;
+    color: rgb(44, 44, 44);
+    font-size: 25px;
+ 
+}
+p.footer11{
+    font-size: 35px;
+    font-family: Comic Sans MS;
+}
+div.footer2{
+    float: left;
+    margin: 10px 0px 10px 170px;
+   
+}
+
+p.color{
+    color: rgb(44, 44, 44);
+}
 
